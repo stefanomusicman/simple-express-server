@@ -1,0 +1,1 @@
+Simple server built with Express.js. The server is using the MVC framework.
